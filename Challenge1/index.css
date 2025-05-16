@@ -1,0 +1,18 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --font-family: "Karla", sans-serif;
+  --body-bg: #1e1f25;
+  --btn-bg: #000;
+  --btn-color: #cbcbcb;
+  --btb-color-hover: #fff;
+  --grade-color1: #eeaf61;
+  --grade-color2: #fb9062;
+  --grade-color1: #ee5d6c;
+  --grade-color1: #ce4993;
+  --grade-color1: #6a0d83;
+}
